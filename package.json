@@ -14,7 +14,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "debug": "~4.1.1",
+    "debug": "~4.2.0",
     "notepack.io": "~2.3.0",
     "redis": "~3.0.2",
     "socket.io-adapter": "kr-project/socket.io-adapter",
